@@ -6,28 +6,6 @@ The used cars market in India has grown rapidly in the recent years and demand f
 ## About Dataset:
 The dataset is sourced from a popular website called Kaggle, released by an Indian company named Cardekho. The original dataset includes 13 variables and 8,128 observations, but this is planned to be reduced to 5 variables, where 4 are predictors and 1 is the response variable. Total number of observations will be a random sample of 13% taken from the original dataset which will result in 901 observations in total. The 5 featured are tabulated below:
 
-<html>
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
-
 <h2>Features in Dataset</h2>
 
 <table>
