@@ -5,30 +5,66 @@ The used cars market in India has grown rapidly in the recent years and demand f
 
 ## About Dataset:
 The dataset is sourced from a popular website called Kaggle, released by an Indian company named Cardekho. The original dataset includes 13 variables and 8,128 observations, but this is planned to be reduced to 5 variables, where 4 are predictors and 1 is the response variable. Total number of observations will be a random sample of 13% taken from the original dataset which will result in 901 observations in total. The 5 featured are tabulated below:
-Variables	Continuous/Discrete/Categorical 	Predictor/Response 
-vehicle_brand	Categorical nominal (22 brands)	Predictor
-year (model)	Quantitative discrete	Predictor
-cubic_capacity	Quantitative continuous	Predictor
-km_driven	Quantitative continuous	Predictor
-selling_price	Quantitative continuous	Response
+
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Features in Dataset</h2>
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Variables</th>
+    <th>Continuous/Discrete/Categorical </th>
+    <th>Predictor/Response</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>vehicle_brand</td>
+    <td>Categorical nominal (22 brands)</td>
+    <td>Predictor</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>year (model)</td>
+    <td>Quantitative discrete</td>
+    <td>Predictor</td>
+  </tr>
+  <tr>
+    <td>cubic_capacity</td>
+    <td>Quantitative continuous</td>
+    <td>Predictor</td>
+  </tr>
+  <tr>
+    <td>km_driven</td>
+    <td>Quantitative continuous</td>
+    <td>Predictor</td>
+  </tr>
+  <tr>
+    <td>selling_price</td>
+    <td>Quantitative continuous</td>
+    <td>Response</td>
   </tr>
 </table>
+
+</body>
+</html>
 
 
 ## Questions To Be Answered :
