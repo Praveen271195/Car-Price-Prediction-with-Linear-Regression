@@ -12,6 +12,24 @@ cubic_capacity	Quantitative continuous	Predictor
 km_driven	Quantitative continuous	Predictor
 selling_price	Quantitative continuous	Response
 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
 
 ## Questions To Be Answered :
 1.	Whether a luxury car manufactured by a brand like Mercedes, has a higher selling price than a usual Indian brand like Maruti?
