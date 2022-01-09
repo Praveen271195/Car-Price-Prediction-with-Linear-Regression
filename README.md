@@ -1,4 +1,4 @@
-<h1 align="center">Car Price Prediction with Linear Regression</h1>
+<h1 align="center">Statistical Analysis on Used Car Selling Prices</h1>
 
 ## Purpose of Repository:
 The used cars market in India has grown rapidly in the recent years and demand for passenger vehicles has encouraged the industry to collect enormous amount of data to serve the customers better. This document proposes an idea to use such a dataset for building a tool that can predict the selling price of a vehicle by using statistical techniques. This proposal includes information and plan of actions to achieve the main goal of this project.
